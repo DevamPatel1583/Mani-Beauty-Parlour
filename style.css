@@ -5,7 +5,7 @@
 }
 
 #banner {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), #009688), url("https://loading.io/asset/751298");
+    background: linear-gradient(rgba(0, 0, 0, 0.5), #009688), url("images/banner.png");
     background-size: cover;
     background-position: center;
     height: 100vh;
